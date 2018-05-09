@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vcczh.github.io/about/</loc>
+    <lastmod>2018-05-08T21:34:29-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vcczh.github.io/posts/day-one/</loc>
     <lastmod>2018-05-06T22:15:02-07:00</lastmod>
   </url>
@@ -25,7 +30,7 @@
   
   <url>
     <loc>https://vcczh.github.io/</loc>
-    <lastmod>2018-05-06T22:15:02-07:00</lastmod>
+    <lastmod>2018-05-08T21:34:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   

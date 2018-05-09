@@ -6,10 +6,19 @@
     <description>Recent content on Zhiheng Chu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 May 2018 22:15:02 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 May 2018 21:34:29 -0700</lastBuildDate>
     
 	<atom:link href="https://vcczh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://vcczh.github.io/about/</link>
+      <pubDate>Tue, 08 May 2018 21:34:29 -0700</pubDate>
+      
+      <guid>https://vcczh.github.io/about/</guid>
+      <description>This is a page about me. (Under construction&amp;hellip;)</description>
+    </item>
     
     <item>
       <title>Day One</title>
